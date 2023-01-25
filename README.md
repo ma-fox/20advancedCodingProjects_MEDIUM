@@ -6,7 +6,7 @@
 > - [ ] Use a library to build an OAuth 2 authorization server. Implement the various flows according to the OAuth spec.
 Scrape data from the web. Clean it up. Load it into a data analysis tool. Then, build some visualizations. For example, try making word clouds of Wikipedia articles.
 >
-> - [ ] Create a Dockerfile & docker-compose.yml for a web application with a database, cache layer, nginx/Apache server, backend API, & JavaScript frontend.
+> - [x] Create a Dockerfile & docker-compose.yml for a web application with a database, cache layer, nginx/Apache server, backend API, & JavaScript frontend.
 >
 > - [ ] Write a bash/zsh script that traverses directories, iterates through files, and runs some commands against those files. Make sure the script can take arguments and settings flags.
 >
