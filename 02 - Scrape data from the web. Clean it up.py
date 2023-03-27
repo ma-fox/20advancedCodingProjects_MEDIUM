@@ -22,3 +22,7 @@ for line in lines:
 
 wordcloud = WordCloud(width=800, height=800,
                       background_color='white').generate(cleaned_text)
+
+# Step 4: Build visualizations
+# The matplotlib library is used to display the word cloud visualization,
+# which shows the frequency of words in the cleaned text as a graphical representation.
