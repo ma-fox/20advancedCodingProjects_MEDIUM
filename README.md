@@ -4,7 +4,7 @@
 ### The list:
 
 > - [ ] Use a library to build an OAuth 2 authorization server. Implement the various flows according to the OAuth spec.
-Scrape data from the web. Clean it up. Load it into a data analysis tool. Then, build some visualizations. For example, try making word clouds of Wikipedia articles.
+> - [x] Scrape data from the web. Clean it up. Load it into a data analysis tool. Then, build some visualizations. For example, try making word clouds of Wikipedia articles.
 >
 > - [x] Create a Dockerfile & docker-compose.yml for a web application with a database, cache layer, nginx/Apache server, backend API, & JavaScript frontend.
 >
@@ -23,11 +23,11 @@ Pass sensitive information back and forth between two APIs, using an HMAC to sig
 >
 > - [ ] Get a Raspberry Pi and implement a simple web server to turn on/off a light with an API request.
 >
-> - [ ] Write and orchestrate Airflow tasks to pull recent tweets from Twitter (using a schedule or a command), concurrently for various Twitter handles. 
+> - [ ] Write and orchestrate Airflow tasks to pull recent tweets from Twitter (using a schedule or a command), concurrently for various Twitter handles.
 >
 > - [ ] Save the tweets to a data store. Bonus points for adding a map-reduce step for analysis.
 >
-> - [ ] Build a timeseries database and API for accepting and storing logs from an application. Handle concurrent requests with some type of queue. 
+> - [ ] Build a timeseries database and API for accepting and storing logs from an application. Handle concurrent requests with some type of queue.
 >
 > - [ ] Implement Elasticsearch for quick searches.
 >
